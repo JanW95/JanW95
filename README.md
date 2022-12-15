@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanW95
-- Interested in music and software devolopment
-- Professional fullstack senior dev in medical technology
+- Interested in music and software engineering
+- Professional senior developer in medical technology
 
 <!---
 JanW95/JanW95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
