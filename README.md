@@ -6,7 +6,7 @@
 - Frameworks: Spring, ASP.Net, Unity
 - Editors: Visual Studio, Eclipse, Unity
 - Expirenced with SPS industry controllers and Dicom Communications
-- Spoken languages: german, english - (a small amount of spanish vocabolar and learning russian)
+- Spoken languages: german, english
 <!---
 JanW95/JanW95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
