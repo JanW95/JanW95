@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan
-- Interested in music, software engineering, medicin and military stuff
+- Interested in music, (software) engineering, medicin and military stuff
 - Degree in computer science and business
 - Professional senior developer in medical technology, focused in service and api development
 - Main languages: Java, C#, PHP, Javascript
