@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan
+- 👋 Hi, I’m Jan, born 1995
 - Interested in music, (software) engineering, medicin and military stuff
 - Degree in computer science and business
 - Professional senior developer in medical technology, focused in service and api development
