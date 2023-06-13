@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jan, born 1995
-- Interested in music, (software) engineering, medicin and military stuff
+- Interested in music, (software) engineering, politics, medicin and military stuff
 - Degree in computer science and business
-- Professional senior developer in medical technology, focused in service and api development
+- Professional senior fullstack developer in medical technology, focused in service and api development
 - Main languages: Java, C#, PHP, Javascript
 - Frameworks: Spring, ASP.Net, Unity
 - Editors: Visual Studio, Eclipse, Unity
