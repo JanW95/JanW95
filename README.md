@@ -2,7 +2,7 @@
 - Interested in music, (software) engineering, politics, medicin and military stuff
 - Degree in computer science and business
 - Professional senior fullstack developer in medical technology, focused in service and api development
-- Main languages: Java, C#, PHP, Javascript
+- Main languages: Java, C#, PHP, Javascript including major/populare frameworks and toolkits
 - Frameworks: Spring, ASP.Net, Unity
 - Editors: Visual Studio, Eclipse, Unity
 - Expirenced with SPS industry controllers and Dicom Communications
