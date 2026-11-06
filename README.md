@@ -1,12 +1,9 @@
 👋 Hi, I’m Jan, 
-- Interested in music, (software) engineering, politics, medicine and military stuff
+- Interested in music, (software) engineering, politics, medicine, military and economics
 - Degree in computer science and business
-- Professional senior fullstack developer in medical technology focused in service and api development
-- Main languages: Java, C#, PHP, Javascript including expierence in major/popular frameworks and toolkits like Spring, React, ASP.Net and also Unity
-- Editors: Visual Studio, Eclipse, Unity
+- Former fullstack developer in medical technology focused in service and api development
+- Java, C#, C++, PHP, Javascript including expierence in major/popular frameworks and toolkits like Spring, React, ASP.Net, Unity, Unreal, .net MAUI
 - Expirenced with SPS industry controllers and Dicom Communications
-- Spoken languages: german, english
-- born 1995
 
 ༼ つ ◕_◕ ༽つ
 <!---
