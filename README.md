@@ -2,8 +2,8 @@
 - Interested in music, (software) engineering, politics, medicine, military and economics
 - Degree in computer science and business
 - Former fullstack developer in medical technology focused in service and api development
-- Java, C#, C++, PHP, Javascript including expierence in major/popular frameworks and toolkits like Spring, React, ASP.Net, Unity, Unreal, .net MAUI
-- Expirenced with SPS industry controllers and Dicom Communications
+- Java, C#, C++, PHP, Javascript including experience in major/popular frameworks and toolkits like Spring, React, ASP.Net, Unity, Unreal, .net MAUI
+- Experienced with SPS industry controllers and Dicom Communications
 
 ༼ つ ◕_◕ ༽つ
 <!---
